@@ -1,2 +1,7 @@
-package ZAuto;public class Opony {
+package ZAuto;
+
+public class Opony {
+    String marka;
+    double tarcie;
 }
+
